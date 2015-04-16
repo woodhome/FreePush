@@ -11,21 +11,21 @@
                    <key>kind</key>   
                    <string>software-package</string>   
                    <key>url</key>   
-                   <string>http://192.168.199.224:8888/static/zhigui.ipa</string>   
+                   <string>http://192.168.199.224:8888/static/SlowMotionVideoRecorder.ipa</string>   
                </dict>   
            </array>   
            <key>metadata</key>   
            <dict>   
                <key>bundle-identifier</key>   
-               <string>com.zhigui.web.zhigui</string>  
+               <string>com.car.recorder</string>  
                <key>bundle-version</key>   
                <string>1.0</string>   
                <key>kind</key>   
                <string>software</string>   
                <key>subtitle</key>   
-               <string>智柜</string>   
+               <string>recorder</string>   
                <key>title</key>   
-               <string>派鲜</string>   
+               <string>carrecorder</string>   
            </dict>   
        </dict>   
    </array>   
